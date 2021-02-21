@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chr1s Zhang' Blog
 
 You can use the [editor on GitHub](https://github.com/xtR0d666/xtR0dsBlog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
